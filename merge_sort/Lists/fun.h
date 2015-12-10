@@ -3,7 +3,6 @@
 
 #include "CNode.h"
 
-int palindrom(struct CNode**);
-
+void merge_sort(struct CNode**);
 
 #endif // FUN_H
